@@ -1,0 +1,9 @@
+https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
+https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
+https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
+https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
+https://gist.githubusercontent.com/miry/2a7635beaa7078e0d7af/raw/hosts
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://download.dnscrypt.info/blacklists/domains/mybase.txt
+https://gist.githubusercontent.com/miry/2a7635beaa7078e0d7af/raw/hosts
+https://1hos.cf/mini/list.txt
